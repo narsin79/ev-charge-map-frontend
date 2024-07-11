@@ -1,4 +1,4 @@
-# EV Charge Map (ev-charge-map)
+# EV Charger locator (ev-charger-locator)
 
 # Application images/pages
 

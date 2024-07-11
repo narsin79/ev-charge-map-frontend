@@ -1,9 +1,9 @@
 {
-  "name": "ev-charge-map",
+  "name": "ev-charger-locator",
   "version": "0.0.1",
   "description": "Ev charging stations show on a map",
-  "productName": "EV Charge Map",
-  "author": "john.weeks.dev@gmail.com",
+  "productName": "EV Charger Locator",
+  "author": "makaimurtty18@gmail.com",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",

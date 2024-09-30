@@ -64,11 +64,5 @@ You should be good to go!
   <img width="200" alt="Screenshot 2022-07-18 at 01 29 22" src="https://user-images.githubusercontent.com/108229029/179419761-86ad5042-f587-4e0d-aed1-b3a0af9267ca.png">
 </p>
 
-## Account Section
 
-<p float="left">
-  <img width="255" alt="Screenshot 2022-07-18 at 01 31 04" src="https://user-images.githubusercontent.com/108229029/179419838-85557f87-495f-4e7e-954f-c5b48669f01b.png">
-  <img width="255" alt="Screenshot 2022-07-18 at 01 30 50" src="https://user-images.githubusercontent.com/108229029/179419840-f3919517-b73a-4dc3-82b5-e6cd492b21f9.png">
-  <img width="255" alt="Screenshot 2022-07-18 at 01 30 38" src="https://user-images.githubusercontent.com/108229029/179419842-fff272db-b7ce-45be-ac4d-4e6fa3e2cfa6.png">
-</p>
 

@@ -6,9 +6,6 @@ If you'd like a step by step guide on how to build this just **CLICK THE IMAGE B
 
 ## Frontend setup
 
-### Note
-For this frontend to work you'll need the backend/api section -> https://github.com/John-Weeks-Dev/ev-charge-map-api
-
 You'll need to install the Quasar CLI tool -> https://quasar.dev/start/pick-quasar-flavour
 
 Go to https://console.cloud.google.com/ and generate an API KEY. 

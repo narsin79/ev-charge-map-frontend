@@ -1,18 +1,8 @@
 # EV Charge Map (ev-charge-map)
 
-### Tutorial series on how to build this
-
 If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
 
 [![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/203494132-c95e7b90-2b19-4dbb-b090-19a74b587e26.jpg)](https://rumble.com/v1q1i9r-build-a-pwa-quasar-framework-vue-3-laravel-api-pt-1.html)
-
-Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
-
-**LIKE**, **SUBSCRIBE**, and **SMASH THE NOTIFICATION BELL**!!!
-
-## Demonstration Video
-
-https://user-images.githubusercontent.com/108229029/179423135-feeb78d5-0991-4875-8dae-440afdc82d28.mp4
 
 ## Frontend setup
 
@@ -20,11 +10,6 @@ https://user-images.githubusercontent.com/108229029/179423135-feeb78d5-0991-4875
 For this frontend to work you'll need the backend/api section -> https://github.com/John-Weeks-Dev/ev-charge-map-api
 
 You'll need to install the Quasar CLI tool -> https://quasar.dev/start/pick-quasar-flavour
-
-Clone the repository
-```
-git clone https://github.com/John-Weeks-Dev/ev-charge-map.git
-```
 
 Go to https://console.cloud.google.com/ and generate an API KEY. 
 
